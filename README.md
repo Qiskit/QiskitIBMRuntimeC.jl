@@ -5,7 +5,7 @@
 [![PkgEval](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/Q/Qiskit.svg)](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/Q/Qiskit.html)
 [![Aqua](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
 
-# QiskitIBMRuntimeC
+# QiskitIBMRuntimeC.jl
 
 Julia wrapper of [qiskit-ibm-runtime-c](https://github.com/Qiskit/qiskit-ibm-runtime-c)
 
