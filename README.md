@@ -1,7 +1,7 @@
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://qiskit.github.io/QiskitIBMRuntime.jl/stable/)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://qiskit.github.io/QiskitIBMRuntime.jl/dev/)
-[![Build Status](https://github.com/Qiskit/QiskitIBMRuntime.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Qiskit/QiskitIBMRuntime.jl/actions/workflows/CI.yml?query=branch%3Amain)
-[![Coverage](https://coveralls.io/repos/github/Qiskit/QiskitIBMRuntime.jl/badge.svg?branch=main)](https://coveralls.io/github/Qiskit/QiskitIBMRuntime.jl?branch=main)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://qiskit.github.io/QiskitIBMRuntimeC.jl/stable/)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://qiskit.github.io/QiskitIBMRuntimeC.jl/dev/)
+[![Build Status](https://github.com/Qiskit/QiskitIBMRuntimeC.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Qiskit/QiskitIBMRuntimeC.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://coveralls.io/repos/github/Qiskit/QiskitIBMRuntimeC.jl/badge.svg?branch=main)](https://coveralls.io/github/Qiskit/QiskitIBMRuntimeC.jl?branch=main)
 [![PkgEval](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/Q/Qiskit.svg)](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/Q/Qiskit.html)
 [![Aqua](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
 
