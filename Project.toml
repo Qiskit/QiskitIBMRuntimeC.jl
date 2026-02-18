@@ -14,7 +14,7 @@ qiskit_ibm_runtime_jll = "dfd00f80-54b8-5b12-a44d-54bafd549557"
 [compat]
 julia = "1.10"
 Libdl = "1"
-Compat = "3.47"
+Compat = "3.47, 4"
 CEnum = "0.5"
 Dates = "1"
 Qiskit = "~0.3.0"
