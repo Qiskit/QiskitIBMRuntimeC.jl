@@ -1,7 +1,7 @@
 name = "QiskitIBMRuntimeC"
 uuid = "90b98b31-c194-4d1e-bfb5-0d4cb7418088"
 authors = ["IBM and its contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
@@ -17,7 +17,7 @@ Libdl = "1"
 Compat = "3.47, 4"
 CEnum = "0.5"
 Dates = "1"
-Qiskit = "~0.3.0"
+Qiskit = "~0.4.0"
 qiskit_ibm_runtime_jll = "~0.38.0"
 Aqua = "0.8.14"
 Test = "1"
