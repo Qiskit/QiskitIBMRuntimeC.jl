@@ -7,7 +7,7 @@
 
 # QiskitIBMRuntimeC.jl
 
-Execute circuits on a quantum computer using the IBM Qiskit Runtime service.  This package is a lightweight Julia wrapper of the [qiskit-ibm-runtime-c](https://github.com/Qiskit/qiskit-ibm-runtime-c) client.
+Execute circuits on a quantum computer using the Qiskit IBM Runtime service.  This package builds on [Qiskit.jl](https://github.com/Qiskit/Qiskit.jl) and provides a lightweight Julia wrapper of the [qiskit-ibm-runtime-c](https://github.com/Qiskit/qiskit-ibm-runtime-c) client.
 
 ## Example
 
