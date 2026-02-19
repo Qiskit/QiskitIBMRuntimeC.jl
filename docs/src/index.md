@@ -10,7 +10,7 @@ In order to use this package, the credentials currently must first be saved to `
 
 ## Example
 
-This example constructs a circuit that generates a Bell state.  It transpiles and submits that circuit to the least busy quantum backend.  When the job is done, it displays the results.
+This example constructs a circuit that generates a [Bell state](https://en.wikipedia.org/wiki/Bell_state).  It transpiles and submits that circuit to the least busy quantum backend.  When the job is done, it displays the results.
 
 ```julia
 using Qiskit
