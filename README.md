@@ -94,7 +94,7 @@ julia -e 'using Pkg; Pkg.test("QiskitIBMRuntimeC")'
 
 ## Documentation
 
-Documentation is available at https://qiskit.github.io/QiskitIBMRuntimeC.jl/.
+Documentation is available at https://qiskit.github.io/QiskitIBMRuntimeC.jl.
 
 ## License
 
