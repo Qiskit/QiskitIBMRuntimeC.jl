@@ -4,3 +4,4 @@ QiskitIBMRuntimeC = "90b98b31-c194-4d1e-bfb5-0d4cb7418088"
 
 [compat]
 Documenter = "1.16.1"
+QiskitIBMRuntimeC = "0.1.1"
